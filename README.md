@@ -18,11 +18,17 @@ In case my computer crashes, these form the essentials to install
 
 # Development
 * Microsoft VS Code
-* Microsoft Visual C++
+** C/C++, code completing got better in 0.12 however still room for improvement. Yet I do like the @-symbols.
+** C/C++ Clang Command Adapter, far better auto completion than the standard C/C++
+** Vim, it's the details that make this plugin. E.g. the visual hint in the status bar that you're in searching mode
+** CMake
+** CMake Tools
+**
+* Microsoft Visual C++ Build Tools
 * LLVM/Clang
+* CMake
 * Boost
 * SFML
-* CMake
 * CppDepend
 * IntelPerformanceCounterMonitor
 * .NET
