@@ -48,3 +48,4 @@ In case my computer crashes, these form the essentials to install
 * CppDepend
 * HUGO
 * IntelPerformanceCounterMonitor
+* Catch2 or Google test
