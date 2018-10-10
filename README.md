@@ -7,7 +7,6 @@ In case my computer crashes, these form the essentials to install
 * ConEmu
 * FreeMind
 * Git
-* MyPersonalKanban
 * Putty
 * Vim
 * Wireshark
@@ -15,8 +14,10 @@ In case my computer crashes, these form the essentials to install
 * f.lux
 * PDFCreator
 * WinRAR
+* Pandoc
 
 # Development
+## C++
 * Microsoft VS Code
   * C/C++, code completing got better in 0.12 however still room for improvement. Yet I do like the @-symbols.
   * C/C++ Clang Command Adapter, far better auto completion than the standard C/C++
@@ -28,11 +29,12 @@ In case my computer crashes, these form the essentials to install
 * CMake
 * Boost
 * SFML
-* CppDepend
-* IntelPerformanceCounterMonitor
-* .NET
+* DependencyWalker
+* .NET Core (Dotnet SDK - CLI)
 * IlSpy
 * Java 
+* Insomnia
+* ToxiProxy
 * Node.js
 
 # Fun
@@ -43,3 +45,6 @@ In case my computer crashes, these form the essentials to install
 * Erlang + RabbitMQ
 * Symmetric-DS
 * Tungsten-replicator
+* CppDepend
+* HUGO
+* IntelPerformanceCounterMonitor
