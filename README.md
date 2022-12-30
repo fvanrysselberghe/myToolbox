@@ -3,49 +3,110 @@ Just a list of tools that I use to get my things done.
 In case my computer crashes, these form the essentials to install
 
 # General
-* Powershell
-* ConEmu
-* FreeMind
-* Git
-* Putty
-* Vim
-* Wireshark
-* Talend
-* f.lux
-* PDFCreator
+## Essentials
+* BitDefender
 * WinRAR
+* 7Zip
+* Chocolatey
+* Thunderbird
+* Mozilla
+  * Canvas Blocker
+  * Cookie AutoDelete
+  * HTTPS everywhere
+  * Privacy Badger
+  * uBlock
+* BitWarden
+* OneNote
 * Pandoc
+* MiKTeX
+* Hugo
+* OpenJDK
+
+## Extras
+* XMind 8
+* Diagrams.net
+* Excalidraw
+* Inkscape
+* Audacity
 
 # Development
-## C++
+## Essentials
+* Powershell
+* Git
+* Github, including github actions
+* Windows Terminal
 * Microsoft VS Code
-  * C/C++, code completing got better in 0.12 however still room for improvement. Yet I do like the @-symbols.
-  * C/C++ Clang Command Adapter, far better auto completion than the standard C/C++
-  * Vim, it's the details that make this plugin. E.g. the visual hint in the status bar that you're in searching mode
-  * CMake
-  * CMake Tools
-* Microsoft Visual C++ Build Tools
+ * Vim, it's the details that make this plugin. E.g. the visual hint in the status bar that you're in searching mode
+* Winmerge
+
+### C++ 
 * LLVM/Clang
+* Microsoft Visual C++ Build Tools
+* Ninja
 * CMake
 * Boost
-* SFML
+* Qt
 * DependencyWalker
-* .NET Core (Dotnet SDK - CLI)
+* Microsoft VS Code
+  * C/C++, code completing got better in 0.12 however still room for improvement. Yet I do like the @-symbols.
+  * Clangd
+  * CMake 
+  * CMake Tools
+
+### C#
 * IlSpy
-* Java 
+* .NET Core (Dotnet SDK - CLI)
+
+### Python
+* Microsoft VS Code
+  * Python
+* Python 3
+
+## Extras
+* Wireshark
+* [Cyberduck](https://cyberduck.io)
 * Insomnia
 * ToxiProxy
-* Node.js
+* Docker
 
 # Fun
 * Arduino
 * GTypist
+* Garmin BaseCamp
+* Kinovea
 
 # Under Evaluation
-* Erlang + RabbitMQ
+* Meson, as simple & fast build alternative for C++ and Rust
+* Elixir
+* Rust
+* Lapce
+* VsCode
+  * Cobalt theme, as clearer nightmode
+  * CodeLLDB, ad C++ debugger
+  * ElixirLS
+  * Language support for Java (TM) by Red Hat
+  * LaTeX Workshop
+  * Rust-analyzer
+* Blender
 * Symmetric-DS
 * Tungsten-replicator
 * CppDepend
-* HUGO
 * IntelPerformanceCounterMonitor
 * Catch2 or Google test
+* Mozilla
+ * Epub Press
+ * Unclutter
+* Scribus
+* Sourcetrail
+* Ultimaker Cura
+
+# Deprecated
+* Vim -> VsCode + Lapce
+* Putty -> Cyberduck
+* ConEmu -> Windows Terminal
+* f.lux -> Windows night mode
+* freemind -> X-mind
+* clang command adapter -> clangd
+* SFML
+* node.js
+* Java 
