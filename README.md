@@ -21,6 +21,7 @@ In case my computer crashes, these form the essentials to install
 * MiKTeX
 * Hugo
 * OpenJDK
+* MS Powertoys
 
 ## Extras
 * XMind 8
@@ -76,7 +77,7 @@ In case my computer crashes, these form the essentials to install
 * Kinovea
 
 # Under Evaluation
-* Meson, as simple & fast build alternative for C++ and Rust
+* Neovim + Lazy
 * Elixir
 * Rust
 * Lapce
@@ -87,9 +88,6 @@ In case my computer crashes, these form the essentials to install
   * Language support for Java (TM) by Red Hat
   * LaTeX Workshop
   * Rust-analyzer
-* Blender
-* Symmetric-DS
-* Tungsten-replicator
 * CppDepend
 * IntelPerformanceCounterMonitor
 * Catch2 or Google test
