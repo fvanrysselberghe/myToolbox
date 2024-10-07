@@ -5,9 +5,7 @@ In case my computer crashes, these form the essentials to install
 # General
 ## Essentials
 * BitDefender
-* WinRAR
 * 7Zip
-* Chocolatey
 * Thunderbird
 * Mozilla
   * Canvas Blocker
@@ -20,15 +18,15 @@ In case my computer crashes, these form the essentials to install
 * Pandoc
 * MiKTeX
 * Hugo
-* OpenJDK
 * MS Powertoys
 
 ## Extras
 * XMind 8
 * Diagrams.net
-* Excalidraw
 * Inkscape
+* VLC
 * Audacity
+* Excalidraw
 
 # Development
 ## Essentials
@@ -57,10 +55,16 @@ In case my computer crashes, these form the essentials to install
 ### C#
 * IlSpy
 * .NET Core (Dotnet SDK - CLI)
+* Microsoft VS Code
+  * C# XML Documentation Comments
+  * .NET Core User Secrets
+
 
 ### Python
 * Microsoft VS Code
   * Python
+  * Python Debugger
+  * Pylance
 * Python 3
 
 ## Extras
@@ -75,28 +79,30 @@ In case my computer crashes, these form the essentials to install
 * GTypist
 * Garmin BaseCamp
 * Kinovea
+* Microsoft Visual Studio
+  * Better Fountain
+
 
 # Under Evaluation
 * Neovim + Lazy
 * Elixir
-* Rust
-* Lapce
+* Julia 
+* Lapce, promising but a bit too early
 * VsCode
-  * Cobalt theme, as clearer nightmode
   * CodeLLDB, ad C++ debugger
   * ElixirLS
-  * Language support for Java (TM) by Red Hat
   * LaTeX Workshop
-  * Rust-analyzer
 * CppDepend
 * IntelPerformanceCounterMonitor
 * Catch2 or Google test
 * Mozilla
  * Epub Press
  * Unclutter
-* Scribus
+* Scribus (winget install --id=Scribus.Scribus  -e)
 * Sourcetrail
-* Ultimaker Cura
+* Ultimaker Cura (winget install --id=Ultimaker.Cura  -e)
+* Lunacy (winget install --id=Icons8.Lunacy  -e)
+* SumatraPdf (winget install --id=SumatraPDF.SumatraPDF  -e)
 
 # Deprecated
 * Vim -> VsCode + Lapce
@@ -107,4 +113,8 @@ In case my computer crashes, these form the essentials to install
 * clang command adapter -> clangd
 * SFML
 * node.js
-* Java 
+* Java, OpenJDK 
+* WinRar -> 7zip
+* Chocolatey -> WGet
+* VS Code
+  * Cobalt theme, as clearer nightmode
