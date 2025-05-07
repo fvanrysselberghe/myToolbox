@@ -8,7 +8,6 @@ winget install --id=Mozilla.Thunderbird.eu -e
 winget install --id=Mozilla.Firefox -e  
 winget install --id=JohnMacFarlane.Pandoc -e  
 winget install --id=MiKTeX.MiKTeX -e  
-winget install --id=Hugo.Hugo -e  
 winget install --id=Microsoft.PowerToys -e
 winget install --id=Git.Git -e  
 winget install --id=Microsoft.WindowsTerminal -e  
