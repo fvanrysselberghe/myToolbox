@@ -1,6 +1,8 @@
 
 # Essentials
 code --install-extension vscodevim.vim
+code --install-extension GitHub.github-vscode-theme
+code --install-extension Catppuccin.catppuccin-vsc
 
 # C++
 code --install-extension vadimcn.vscode-lldb
