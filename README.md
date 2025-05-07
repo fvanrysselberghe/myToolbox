@@ -17,7 +17,6 @@ In case my computer crashes, these form the essentials to install
 * OneNote
 * Pandoc
 * MiKTeX
-* Hugo
 * MS Powertoys
 
 ## Extras
@@ -118,3 +117,6 @@ In case my computer crashes, these form the essentials to install
 * Chocolatey -> WGet
 * VS Code
   * Cobalt theme, as clearer nightmode
+* Hugo
+  * Usefull and flexible tool for maintaining a nice static website.
+  * Upon reflection my use case is too small for adopting a tool. May change e.g., when blogging
